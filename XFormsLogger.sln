@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsLogger", "XFormsLogger\XFormsLogger.csproj", "{E978BD64-988B-45D4-B2A2-D3D67D27D336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsLogger.Droid", "XFormsLogger.Droid\XFormsLogger.Droid.csproj", "{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsLogger.Abstractions", "XFormsLogger.Abstractions\XFormsLogger.Abstractions.csproj", "{B165BE17-D1A1-4B36-9FFC-9518ED6DA5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E978BD64-988B-45D4-B2A2-D3D67D27D336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E978BD64-988B-45D4-B2A2-D3D67D27D336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E978BD64-988B-45D4-B2A2-D3D67D27D336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E978BD64-988B-45D4-B2A2-D3D67D27D336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C60809-C5DD-43E3-BCD6-03DDCA55A5AF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B165BE17-D1A1-4B36-9FFC-9518ED6DA5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B165BE17-D1A1-4B36-9FFC-9518ED6DA5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B165BE17-D1A1-4B36-9FFC-9518ED6DA5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B165BE17-D1A1-4B36-9FFC-9518ED6DA5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

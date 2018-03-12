@@ -1,0 +1,9 @@
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\XFormsLogger.Droid.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\Java.Interop.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\Mono.Android.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\System.Core.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\System.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\mscorlib.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\XFormsLogger.Abstractions.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\XFormsLogger.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll

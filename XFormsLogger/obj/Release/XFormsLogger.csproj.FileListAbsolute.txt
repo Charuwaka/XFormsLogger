@@ -1,0 +1,15 @@
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\obj\Release\XFormsLogger.csprojResolveAssemblyReference.cache
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\XFormsLogger.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\XFormsLogger.pdb
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Core.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Platform.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Xaml.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\XFormsLogger.Abstractions.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\XFormsLogger.Abstractions.pdb
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Core.pdb
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Core.xml
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Platform.pdb
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Xaml.pdb
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\bin\Release\Xamarin.Forms.Xaml.xml
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\obj\Release\XFormsLogger.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger\obj\Release\XFormsLogger.pdb

@@ -1,0 +1,4 @@
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\bin\Debug\XFormsLogger.Abstractions.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\bin\Debug\XFormsLogger.Abstractions.pdb
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\obj\Debug\XFormsLogger.Abstractions.dll
+c:\users\thupili.charwaka\documents\visual studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\obj\Debug\XFormsLogger.Abstractions.pdb
