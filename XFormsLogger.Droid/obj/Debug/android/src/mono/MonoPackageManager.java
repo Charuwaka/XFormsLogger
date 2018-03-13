@@ -108,9 +108,8 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "XFormsLogger.Droid.dll" comes first in this list. */
 		"XFormsLogger.Droid.dll",
 		"XFormsLogger.Abstractions.dll",
-		"XFormsLogger.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_26";
+	public static final String ApiPackageName = null;
 }

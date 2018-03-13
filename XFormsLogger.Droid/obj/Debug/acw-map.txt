@@ -1,4 +1,0 @@
-XFormsLogger.Droid.MainActivity, XFormsLogger.Droid;md5fcf0db2786cbbf0b506033437f3bb20f.MainActivity
-XFormsLogger.Droid.MainActivity, XFormsLogger.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fcf0db2786cbbf0b506033437f3bb20f.MainActivity
-XFormsLogger.Droid.MainActivity;md5fcf0db2786cbbf0b506033437f3bb20f.MainActivity
-xformslogger.droid.MainActivity;md5fcf0db2786cbbf0b506033437f3bb20f.MainActivity

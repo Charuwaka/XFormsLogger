@@ -12,11 +12,11 @@ using Android.Widget;
 using System.IO;
 using XFormsLogger.Abstractions;
 
-namespace XFormsLogger.Droid
+namespace XFormsLogger
 {
    public class XFormsLoggerAndroid : XFormsLoggerBase
     {
-        private string _fileName;
+        private string _fileName="Plog.txt";
         private string _logfilePath;
         protected override void SetLogFileName(string filename)
         {

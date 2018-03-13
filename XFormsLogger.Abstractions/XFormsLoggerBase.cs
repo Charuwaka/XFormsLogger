@@ -10,6 +10,11 @@ namespace XFormsLogger.Abstractions
     {
         #region Abstract Methods - implemented in platform specific projects
 
+        public XFormsLoggerBase()
+        {
+
+
+        }
         protected abstract string GetLogFilePath();
 
         protected abstract void LogInfo(string exception, LogLevel loglevel);
@@ -18,17 +23,17 @@ namespace XFormsLogger.Abstractions
 
         string IXFormsLogger.GetLogFilePath()
         {
-            return string.Empty;
+           return GetLogFilePath();
         }
 
         void IXFormsLogger.LogInfo(string exception, LogLevel loglevel)
         {
-            //
+            LogInfo(exception,loglevel);
         }
 
         void IXFormsLogger.SetLogFileName(string filename)
         {
-            //
+            SetLogFileName(filename);
         }
         #endregion
 
