@@ -3,6 +3,7 @@
   <metadata>
     <id>XFormsLogger</id>
     <version>1.0.0</version>
+    <title>XForms Logger For Xamarin Forms PCL logging</title>
     <authors>charwaka</authors>
     <owners>charwaka</owners>
     <licenseUrl>https://github.com/Charuwaka/XFormsLogger</licenseUrl>
