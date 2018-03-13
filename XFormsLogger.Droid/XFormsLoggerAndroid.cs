@@ -14,9 +14,9 @@ using XFormsLogger.Abstractions;
 
 namespace XFormsLogger
 {
-   public class XFormsLoggerAndroid : XFormsLoggerBase
+   public class XFormsLogger : XFormsLoggerBase
     {
-        private string _fileName="Plog.txt";
+        private string _fileName= "XFormsLog.txt";
         private string _logfilePath;
         protected override void SetLogFileName(string filename)
         {
@@ -54,3 +54,4 @@ namespace XFormsLogger
         }
     }
 }
+

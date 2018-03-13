@@ -1,0 +1,8 @@
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\bin\Debug\XFormsLogger.dll
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\bin\Debug\XFormsLogger.pdb
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\bin\Debug\XFormsLogger.Abstractions.dll
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\bin\Debug\XFormsLogger.Abstractions.pdb
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\obj\Debug\optimized\
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\obj\Debug\XFormsLogger.iOS.csprojResolveAssemblyReference.cache
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\obj\Debug\XFormsLogger.dll
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.iOS\obj\Debug\XFormsLogger.pdb

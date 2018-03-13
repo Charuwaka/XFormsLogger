@@ -1,4 +1,4 @@
-C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Debug\android\assets\XFormsLogger.Droid.dll
+C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Debug\android\assets\XFormsLogger.dll
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Debug\android\assets\Java.Interop.dll
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Debug\android\assets\Mono.Android.dll
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Droid\obj\Debug\android\assets\System.Core.dll

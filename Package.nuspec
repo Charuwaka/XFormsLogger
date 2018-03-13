@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>XFormsLogger</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>XForms Logger For Xamarin Forms PCL logging</title>
     <authors>charwaka</authors>
     <owners>charwaka</owners>
@@ -11,10 +11,10 @@
     <iconUrl>https://github.com/Charuwaka/XFormsLogger/blob/master/XFormsLogger.Droid/Assets/bearlog.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>To log events in your Xamarin.Forms application</description>
-    <releaseNotes>Log All Info</releaseNotes>
+    <releaseNotes>Log All Info from Xamarin Forms PCL</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <summary>To log events in your Xamarin or Xamarin.Forms application</summary>
-    <tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, uwp, android, xamarin.forms, ios</tags>
+    <tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin,android, xamarin.forms, ios</tags>
     <dependencies>
       <group targetFramework="net">
       </group>
@@ -45,6 +45,12 @@
     <!--Xamarin.Android-->
     <file src="XFormsLogger.Droid\bin\Release\XFormsLogger.dll" target="lib\MonoAndroid10\XFormsLogger.dll" />
     <file src="XFormsLogger.Droid\bin\Release\XFormsLogger.pdb" target="lib\MonoAndroid10\XFormsLogger.pdb" />
+    <file src="XFormsLogger.Abstractions\bin\Release\XFormsLogger.Abstractions.dll" target="lib\MonoAndroid10\XFormsLogger.Abstractions.dll" />
+    <file src="XFormsLogger.Abstractions\bin\Release\XFormsLogger.Abstractions.pdb" target="lib\MonoAndroid10\XFormsLogger.Abstractions.pdb" />
+
+    <!--Xamarin.iOS-->
+    <file src="XFormsLogger.iOS\bin\Release\XFormsLogger.dll" target="lib\MonoAndroid10\XFormsLogger.dll" />
+    <file src="XFormsLogger.iOS\bin\Release\XFormsLogger.pdb" target="lib\MonoAndroid10\XFormsLogger.pdb" />
     <file src="XFormsLogger.Abstractions\bin\Release\XFormsLogger.Abstractions.dll" target="lib\MonoAndroid10\XFormsLogger.Abstractions.dll" />
     <file src="XFormsLogger.Abstractions\bin\Release\XFormsLogger.Abstractions.pdb" target="lib\MonoAndroid10\XFormsLogger.Abstractions.pdb" />
 

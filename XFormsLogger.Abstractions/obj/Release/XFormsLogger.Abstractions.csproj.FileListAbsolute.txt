@@ -1,5 +1,4 @@
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\bin\Release\XFormsLogger.Abstractions.dll
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\bin\Release\XFormsLogger.Abstractions.pdb
-C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\obj\Release\XFormsLogger.Abstractions.csprojResolveAssemblyReference.cache
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\obj\Release\XFormsLogger.Abstractions.dll
 C:\Users\thupili.charwaka\Documents\Visual Studio 2015\Projects\XFormsLogger\XFormsLogger.Abstractions\obj\Release\XFormsLogger.Abstractions.pdb
