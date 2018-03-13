@@ -8,7 +8,7 @@
     <owners>charwaka</owners>
     <licenseUrl>https://github.com/Charuwaka/XFormsLogger</licenseUrl>
     <projectUrl>https://github.com/Charuwaka/XFormsLogger</projectUrl>
-    <iconUrl>http://www.maiersoft.de/wp-content/uploads/2015/08/Xamagon.png</iconUrl>
+    <iconUrl>https://github.com/Charuwaka/XFormsLogger/blob/master/XFormsLogger.Droid/Assets/bearlog.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>To log events in your Xamarin.Forms application</description>
     <releaseNotes>Log All Info</releaseNotes>
