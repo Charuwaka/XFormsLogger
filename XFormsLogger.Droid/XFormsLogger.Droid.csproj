@@ -65,7 +65,9 @@
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\bearlog.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XFormsLogger.Abstractions\XFormsLogger.Abstractions.csproj">
       <Project>{B165BE17-D1A1-4B36-9FFC-9518ED6DA5C6}</Project>
