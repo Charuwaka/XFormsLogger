@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using XFormsLogger.Abstractions;
 
-namespace XFormsLogger.iOS
+namespace XFormsLogger
 {
     public class XFormsLogger : XFormsLoggerBase
     {
