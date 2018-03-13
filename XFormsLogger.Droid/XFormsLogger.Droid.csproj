@@ -54,6 +54,7 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CrossXFormsLogger.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XFormsLoggerAndroid.cs" />
@@ -63,9 +64,6 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\bearlog.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XFormsLogger.Abstractions\XFormsLogger.Abstractions.csproj">

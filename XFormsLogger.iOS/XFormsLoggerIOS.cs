@@ -8,25 +8,28 @@ namespace XFormsLogger
 {
     public class XFormsLogger : XFormsLoggerBase
     {
-        private string _fileName = "XFormsLog.txt";
-        private string _logfilePath;
-        protected override void SetLogFileName(string filename)
+
+        protected override void SetLogFileName(string filename, string foldername)
         {
-            _fileName = filename;
+            Const.fileName = filename;
+            Const.folderName = foldername;
         }
 
         protected override string GetLogFilePath()
         {
-            return _logfilePath;
+            return Const._logfilePath;
         }
         public string FilePath
         {
             get
             {
-                string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); 
-                string libraryPath = Path.Combine(documentsPath, "..", "Library"); 
-                _logfilePath = Path.Combine(libraryPath, _fileName);
-                return _logfilePath;
+                string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+                var directoryPath = Path.Combine(documentsPath,Const.folderName,Const.fileName);
+                if (!Directory.Exists(directoryPath))
+                { Directory.CreateDirectory(directoryPath); }
+                Const._logfilePath = directoryPath;
+                return Const._logfilePath;
+
             }
         }
 

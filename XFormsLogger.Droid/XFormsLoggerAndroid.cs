@@ -16,26 +16,26 @@ namespace XFormsLogger
 {
    public class XFormsLogger : XFormsLoggerBase
     {
-        private string _fileName= "XFormsLog.txt";
-        private string _logfilePath;
-        protected override void SetLogFileName(string filename)
+        
+        protected override void SetLogFileName(string filename,string foldername)
         {
-            _fileName = filename;
+            Const.fileName = filename;
+            Const.folderName = foldername;
         }
 
         protected override string GetLogFilePath()
         {
-            return _logfilePath;
+            return Const._logfilePath;
         }
         public string FilePath
         {
             get
             {
-                string dir = Path.Combine(Android.OS.Environment.ExternalStorageDirectory.ToString(), "ParaPerksLogs");
+                string dir = Path.Combine(Android.OS.Environment.ExternalStorageDirectory.ToString(), Const.folderName);
                 if (Directory.Exists(dir))
-                    return Path.Combine(dir, _fileName);
-                _logfilePath=Path.Combine(Directory.CreateDirectory(dir).FullName, _fileName);
-                return _logfilePath;
+                    return Path.Combine(dir, Const.fileName);
+                Const._logfilePath = Path.Combine(Directory.CreateDirectory(dir).FullName, Const.fileName);
+                return Const._logfilePath;
 
             }
         }

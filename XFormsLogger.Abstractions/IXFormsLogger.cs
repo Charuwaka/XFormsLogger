@@ -11,6 +11,6 @@ namespace XFormsLogger.Abstractions
         void LogInfo(string exception, LogLevel loglevel);
         string GetLogFilePath();
 
-        void SetLogFileName(string filename);
+        void SetLogFileName(string filename, string foldername);
    }
 }

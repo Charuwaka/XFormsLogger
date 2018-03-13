@@ -16,6 +16,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuspec", "Nuspec", "{A88C20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsLogger.iOS", "XFormsLogger.iOS\XFormsLogger.iOS.csproj", "{52B85E53-97B1-4234-B904-25AAF401F97A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9BE48D72-113F-4E07-A236-E7769EDB7B01}"
+	ProjectSection(SolutionItems) = preProject
+		package-icon.png = package-icon.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +48,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A88C2008-3A8B-487A-A5B1-5AF464D6AC5C} = {9BE48D72-113F-4E07-A236-E7769EDB7B01}
 	EndGlobalSection
 EndGlobal

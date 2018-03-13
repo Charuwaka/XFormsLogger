@@ -19,7 +19,7 @@ namespace XFormsLogger.Abstractions
 
         protected abstract void LogInfo(string exception, LogLevel loglevel);
 
-        protected abstract void SetLogFileName(string filename);
+        protected abstract void SetLogFileName(string filename, string foldername);
 
         string IXFormsLogger.GetLogFilePath()
         {
@@ -31,9 +31,9 @@ namespace XFormsLogger.Abstractions
             LogInfo(exception,loglevel);
         }
 
-        void IXFormsLogger.SetLogFileName(string filename)
+        void IXFormsLogger.SetLogFileName(string filename,string foldername)
         {
-            SetLogFileName(filename);
+            SetLogFileName(filename, foldername);
         }
         #endregion
 

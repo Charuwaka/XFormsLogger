@@ -32,7 +32,7 @@ namespace XFormsLogger
 #if PORTABLE
         return null;
 #else
-            return new XFormsLoggerAndroid();
+            return new XFormsLogger();
 #endif
         }
 
